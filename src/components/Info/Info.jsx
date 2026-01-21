@@ -1,7 +1,7 @@
 import React from "react";
-import "./BandInfo.css";
+import "./Info.css";
 
-export default function BandInfo()
+export default function Info()
 {
     return (
         <section className="band-info">

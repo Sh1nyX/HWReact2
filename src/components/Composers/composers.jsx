@@ -1,7 +1,7 @@
 import React from "react";
-import "./Members.css";
+import "./composers.css";
 
-export default function Members() {
+export default function Composers() {
     const members = ["Robin Beanland", "Chloe Kwok"];
     return (
         <section className="members">
