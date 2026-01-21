@@ -1,0 +1,9 @@
+.gallery-grid {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+.gallery-grid img {
+    width: 200px;
+    border-radius: 8px;
+}

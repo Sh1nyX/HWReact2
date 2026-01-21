@@ -1,0 +1,13 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+section {
+    padding: 1rem;
+    border-radius: 8px;
+    background: #1e1e1e;
+    margin-bottom: 1.5rem;
+}
