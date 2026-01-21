@@ -1,6 +1,6 @@
 import React from "react";
 import "./Albums.css";
-import AlbumCover from "../AlbumCover/AlbumCover";
+import AlbumCover from "../AlbumCover/AlbumCover.jsx";
 
 export default function Albums() {
     const albums = [
